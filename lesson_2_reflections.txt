@@ -11,3 +11,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can use the stating area to make sure you have one commit per logical change by
 reviewing the files and their changes before committing them.
 If you missed a file, you can still add the changed file.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches serve to develop independent features across several commits for each
+feature.
+Branches also serve for support of older versions without moving all the way to
+the latest version.
