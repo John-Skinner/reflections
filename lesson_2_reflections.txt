@@ -4,3 +4,7 @@ readied for adding the files i need.
 The repository needs to be initialized in order to have basic metadata
 initialized for the other git commands that interact with an existing
 repository.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from the working directory in that it provides basic file structoing
+information and no 'diff'able data.
+
