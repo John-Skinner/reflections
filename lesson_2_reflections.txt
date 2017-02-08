@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initiailize my repository, an empty metadata file is created and
+readied for adding the files i need.
+The repository needs to be initialized in order to have basic metadata
+initialized for the other git commands that interact with an existing
+repository.
