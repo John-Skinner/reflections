@@ -17,3 +17,7 @@ Branches serve to develop independent features across several commits for each
 feature.
 Branches also serve for support of older versions without moving all the way to
 the latest version.
+How do the diagrams help you visualize the branch structure?
+
+Diagrams show the graph-like relationship that textual descriptions
+do not easily describe.
