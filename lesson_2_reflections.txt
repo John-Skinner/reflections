@@ -25,3 +25,8 @@ do not easily describe.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging the two branches together is that the feature developed on one branch can be combined with the other branch to create an application with both features.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The advantage of manual merging is that the authors can verify that the changes that create conflicts are resolved in a way that supports both features.
+The disadvantage is that manual merging requires manual steps and humans make mistakes.
