@@ -21,3 +21,7 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams show the graph-like relationship that textual descriptions
 do not easily describe.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging the two branches together is that the feature developed on one branch can be combined with the other branch to create an application with both features.
